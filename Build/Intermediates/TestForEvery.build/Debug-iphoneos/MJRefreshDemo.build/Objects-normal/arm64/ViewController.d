@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/ViewController.m \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/ViewController.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/UIView+MJExtension.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/MJRefresh.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/UIScrollView+MJRefresh.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/UIScrollView+MJExtension.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Custom/Header/MJRefreshNormalHeader.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Custom/Header/MJRefreshStateHeader.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Base/MJRefreshHeader.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Base/MJRefreshComponent.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/MJRefreshConst.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Custom/Header/MJRefreshGifHeader.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Custom/Footer/Back/MJRefreshBackNormalFooter.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Custom/Footer/Back/MJRefreshBackStateFooter.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Base/MJRefreshBackFooter.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Base/MJRefreshFooter.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Custom/Footer/Back/MJRefreshBackGifFooter.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Custom/Footer/Auto/MJRefreshAutoNormalFooter.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Custom/Footer/Auto/MJRefreshAutoStateFooter.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Base/MJRefreshAutoFooter.h \
+  /Users/apple/Desktop/mywork/myCode/DemoCode/TestForEvery/MJRefreshDemo/MJRefresh/Custom/Footer/Auto/MJRefreshAutoGifFooter.h

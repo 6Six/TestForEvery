@@ -1,0 +1,19 @@
+//
+//  SlideMenu-Prefix.pch
+//  TestForEvery
+//
+//  Created by Garry on 15/6/7.
+//  Copyright (c) 2015年 richinfo. All rights reserved.
+//
+
+#ifndef TestForEvery_SlideMenu_Prefix_pch
+#define TestForEvery_SlideMenu_Prefix_pch
+
+#define HScreen [[UIScreen mainScreen] bounds].size.height
+#define WScreen [[UIScreen mainScreen] bounds].size.width
+#define iOS7 [[[UIDevice currentDevice]systemVersion] floatValue] >= 7.0
+#define StyleColor [UIColor colorWithRed:0.08 green:0.47 blue:0.84 alpha:1]
+
+
+
+#endif
