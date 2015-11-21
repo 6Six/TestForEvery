@@ -10,6 +10,9 @@
 
 @interface ViewController : UIViewController
 
+@property (nonatomic, weak) IBOutlet UIView *middleView;
+@property (nonatomic, weak) IBOutlet NSLayoutConstraint *middleViewTopSpaceLayout;
+@property (nonatomic, weak) IBOutlet UIPanGestureRecognizer *panGesture;
 
 @end
 
