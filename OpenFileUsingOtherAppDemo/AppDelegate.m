@@ -11,8 +11,6 @@
 
 @interface AppDelegate ()
 
-//@property (nonatomic, strong) ViewController *viewController;
-
 @end
 
 @implementation AppDelegate
@@ -28,11 +26,6 @@
         {
             [string replaceOccurrencesOfString:@"file://" withString:@"" options:NSCaseInsensitiveSearch range:NSMakeRange(0, path.length)];
         }
-        
-//        if (!_viewController)
-//        {
-//            self.viewController = [[ViewController alloc] init];
-//        }
         
         ViewController *viewController = (ViewController *)self.window.rootViewController;
         [viewController openPng:string];

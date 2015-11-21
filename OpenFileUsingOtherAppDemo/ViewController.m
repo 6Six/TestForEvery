@@ -24,17 +24,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
-//    NSArray *path = NSSearchPathForDirectoriesInDomains(NSDocumentDirectory, NSUserDomainMask, YES);
-//    NSString *cachePath = [[path objectAtIndex:0]stringByAppendingPathComponent:@"123.mp3"];
-//    
-//    UIDocumentInteractionController *documentController = [UIDocumentInteractionController interactionControllerWithURL:[NSURL fileURLWithPath:cachePath]];
-//    documentController.delegate = self;
-//    [documentController presentOpenInMenuFromRect:CGRectZero
-//                                           inView:self.view
-//                                         animated:YES];
-    
     self.view.backgroundColor = [UIColor whiteColor];
-    
 }
 
 - (void)didReceiveMemoryWarning
