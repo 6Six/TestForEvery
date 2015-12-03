@@ -4,6 +4,11 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>AddPropertyInCategory.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>27</integer>
+		</dict>
 		<key>AuthorimTest.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -113,6 +118,11 @@
 		<dict>
 			<key>orderHint</key>
 			<integer>17</integer>
+		</dict>
+		<key>WeixinPaymentDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>28</integer>
 		</dict>
 		<key>ZipArchiveDemo.xcscheme</key>
 		<dict>
@@ -302,6 +312,11 @@
 			<key>primary</key>
 			<true/>
 		</dict>
+		<key>4BB6CED91C085E43004F6640</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
 		<key>4BEB52D01BFF05BB001E068E</key>
 		<dict>
 			<key>primary</key>
@@ -353,6 +368,11 @@
 			<true/>
 		</dict>
 		<key>4BEE12C01C00537D0024BCB5</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4BEE12DB1C02F9C70024BCB5</key>
 		<dict>
 			<key>primary</key>
 			<true/>
