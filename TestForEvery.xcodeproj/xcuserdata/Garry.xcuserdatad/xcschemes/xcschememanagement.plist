@@ -39,6 +39,11 @@
 			<key>orderHint</key>
 			<integer>6</integer>
 		</dict>
+		<key>GradientNavigationBarDemo.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>29</integer>
+		</dict>
 		<key>LeftMenuViewController.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -193,6 +198,11 @@
 			<true/>
 		</dict>
 		<key>4B53E0681BC8AA1300DBDE28</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>4B5DDB7E1DAE1CED00194EA9</key>
 		<dict>
 			<key>primary</key>
 			<true/>
